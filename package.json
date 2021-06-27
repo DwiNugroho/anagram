@@ -1,0 +1,11 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DwiNugroho/anagram.git",
+  "author": "DwiNugroho <adwinugroho1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "run": "node index"
+  }
+}
